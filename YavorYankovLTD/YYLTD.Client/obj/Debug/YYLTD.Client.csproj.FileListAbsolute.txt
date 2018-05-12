@@ -1,0 +1,2 @@
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.csprojResolveAssemblyReference.cache
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.csproj.CoreCompileInputs.cache
