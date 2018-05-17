@@ -1,20 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace ClassLibrary1
+namespace YYLTD.Models
 {
     public class Tracker
     {
-        public int Id { get; set; }
+        [Key]
+        public int TrackerId { get; set; }
 
         public DateTime Date { get; set; }
 
         public short Route { get; set; }
 
         public short Miles { get; set; }
-
-        public DateTime StartIn { get; set; }
-
-        public DateTime EndIn { get; set; }
 
         public short StopsToDeliver { get; set; }
 

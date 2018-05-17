@@ -1,2 +1,17 @@
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.csprojResolveAssemblyReference.cache
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.csproj.CoreCompileInputs.cache
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Client.exe.config
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Client.exe
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Client.pdb
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\EntityFramework.dll
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Data.dll
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Models.dll
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Data.pdb
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Data.dll.config
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Models.pdb
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Models.dll.config
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\EntityFramework.xml
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.exe
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.pdb

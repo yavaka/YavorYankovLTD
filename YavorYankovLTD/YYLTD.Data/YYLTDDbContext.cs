@@ -1,6 +1,6 @@
 namespace YYLTD.Data
 {
-    using Tracker;
+    using YYLTD.Models;
     using System;
     using System.Data.Entity;
     using System.Linq;
@@ -13,6 +13,6 @@ namespace YYLTD.Data
         {
         }
 
-        public virtual DbSet<Tracker> MyEntities { get; set; }
+        public virtual DbSet<Tracker> Trackers { get; set; }
     }
 }

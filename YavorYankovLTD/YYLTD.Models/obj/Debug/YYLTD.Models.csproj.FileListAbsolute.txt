@@ -1,0 +1,11 @@
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\bin\Debug\YYLTD.Models.dll.config
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\bin\Debug\YYLTD.Models.dll
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\bin\Debug\YYLTD.Models.pdb
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\bin\Debug\EntityFramework.dll
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\bin\Debug\EntityFramework.xml
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\obj\Debug\YYLTD.Models.csprojResolveAssemblyReference.cache
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\obj\Debug\YYLTD.Models.csproj.CoreCompileInputs.cache
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\obj\Debug\YYLTD.Models.dll
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Models\obj\Debug\YYLTD.Models.pdb
