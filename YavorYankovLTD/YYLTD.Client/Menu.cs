@@ -35,12 +35,15 @@ namespace YYLTD.Client
                 
             } while (key.Key.ToString() != "Enter");
 
-            //switch (item)
-            //{
-            //    case 2:
-            //        Options.Exit();
-            //        break;
-            //}
+            switch (item)
+            {
+                case 0:
+                    Options.AddJourney();
+                    break;
+                case 2:
+                    Options.Exit();
+                    break;
+            }
         }
 
         private static int PressedKey (ConsoleKeyInfo key, int item, string[] menuItems)

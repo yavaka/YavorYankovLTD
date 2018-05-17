@@ -14,11 +14,11 @@ namespace YYLTD.Models
 
         public DateTime Date { get; set; }
 
-        public short Route { get; set; }
+        public short ?Route { get; set; }
 
-        public short Miles { get; set; }
+        public short ?Miles { get; set; }
 
-        public short StopsToDeliver { get; set; }
+        public short ?StopsToDeliver { get; set; }
 
         public bool IsWork { get; set; }
     }
