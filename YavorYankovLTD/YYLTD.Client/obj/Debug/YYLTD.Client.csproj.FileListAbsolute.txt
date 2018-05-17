@@ -1,4 +1,3 @@
-D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.csprojResolveAssemblyReference.cache
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.csproj.CoreCompileInputs.cache
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Client.exe.config
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\YYLTD.Client.exe
@@ -15,3 +14,5 @@ D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorY
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\bin\Debug\EntityFramework.SqlServer.xml
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.exe
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.pdb
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.csprojAssemblyReference.cache
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Client\obj\Debug\YYLTD.Client.csproj.CopyComplete

@@ -8,7 +8,8 @@ D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorY
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\bin\Debug\YYLTD.Models.dll.config
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\bin\Debug\EntityFramework.xml
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\bin\Debug\EntityFramework.SqlServer.xml
-D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\obj\Debug\YYLTD.Data.csprojResolveAssemblyReference.cache
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\obj\Debug\YYLTD.Data.csproj.CoreCompileInputs.cache
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\obj\Debug\YYLTD.Data.dll
 D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\obj\Debug\YYLTD.Data.pdb
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\obj\Debug\YYLTD.Data.csprojAssemblyReference.cache
+D:\Programming\YavorYankovLTD\YavorYankovLTD-master\YavorYankovLTD-master\YavorYankovLTD\YYLTD.Data\obj\Debug\YYLTD.Data.csproj.CopyComplete
