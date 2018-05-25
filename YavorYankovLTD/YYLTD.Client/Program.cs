@@ -1,12 +1,18 @@
 ﻿namespace YYLTD.Client
 {
     using System;
+    using System.Diagnostics;
 
     class Program
     {
-        static void Main(string[] args)
+
+        public static void Main(string[] args)
         {
+            ConsoleModifications.Run();
+            
             Menu.Items();
         }
+
+
     }
 }

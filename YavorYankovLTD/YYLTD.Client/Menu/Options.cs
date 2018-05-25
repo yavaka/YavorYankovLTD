@@ -53,7 +53,13 @@ namespace YYLTD.Client
         #endregion
 
         #region Calendar
-        public static void Calendar() { }
+        public static void Calendar()
+        {
+            using (var db = new YYLTDDbContext())
+            {
+            
+            }
+        }
         #endregion
 
         public static void Exit()

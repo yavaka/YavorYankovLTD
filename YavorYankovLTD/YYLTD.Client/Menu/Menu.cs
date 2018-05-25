@@ -8,13 +8,14 @@ namespace YYLTD.Client
 {
     public class Menu
     {
+        //Current option
+        private static int Item { get; set; }
+
+        private static ConsoleKeyInfo Key { get; set; }
+
         public static void Items()
         {
-            //Current option
-            int item = 0;
-
-            ConsoleKeyInfo key;
-
+            
             string[] menuItems =
             {
                 "Add journey",
@@ -27,15 +28,16 @@ namespace YYLTD.Client
             {
                 Console.Clear();
 
-                item = PrintMenuItems(item, menuItems);
+                 
+                Item = PrintMenuItems(Item, menuItems);
 
-                key = Console.ReadKey(true);
+                Key = Console.ReadKey(true);
 
-                item = PressedKey(key, item, menuItems);
+                Item = PressedKey(Key, Item, menuItems);
                 
-            } while (key.Key.ToString() != "Enter");
+            } while (Key.Key.ToString() != "Enter");
 
-            switch (item)
+            switch (Item)
             {
                 case 0:
                     Options.AddJourney();
@@ -66,17 +68,21 @@ namespace YYLTD.Client
 
         private static int PrintMenuItems(int item, string[] menuItems)
         {
+            ConsoleModifications.TextAlign();
+
             for (int i = 0; i < menuItems.Length; i++)
             {
                 Console.ResetColor();
-
+                ConsoleModifications.SetCursorPosition(i, menuItems[i].Length);
                 if (item == i)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
+                    ConsoleModifications.ChangeColour();
                     Console.WriteLine(menuItems[i]);
                 }
                 else
+                {
                     Console.WriteLine(menuItems[i]);
+                }
 
             }
             return item;
